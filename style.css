@@ -376,4 +376,8 @@ iframe{
         margin-top: 50px;
         margin-bottom: 50px;
     }
+
+    .top {
+        font-size: 2.5em;
+    }
 }
