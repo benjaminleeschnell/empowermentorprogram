@@ -14,7 +14,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari */
 
-
+img {
+    border-radius: 10px;
+}
    
 
 
@@ -386,6 +388,6 @@ iframe{
         padding-top: 25px;
     }
     #bloc-0 {
-        margin: -200px 0 -100px 0;
+        margin: -200px 0 0 0;
     }
 }
